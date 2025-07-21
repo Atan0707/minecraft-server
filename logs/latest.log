@@ -1,0 +1,77 @@
+[00:01:20] [Server thread/INFO]: pucihanta has made the advancement [Stone Age]
+[00:31:35] [Server thread/INFO]: pucihanta has made the advancement [Suit Up]
+[00:39:22] [Server thread/INFO]: pucihanta has made the advancement [Not Today, Thank You]
+[01:01:30] [Server thread/INFO]: pucihanta was slain by Zombie
+[01:02:18] [Server thread/INFO]: pucihanta lost connection: Disconnected
+[01:02:18] [Server thread/INFO]: pucihanta left the game
+[01:35:49] [Server thread/INFO]: sigman lost connection: Disconnected
+[01:35:49] [Server thread/INFO]: sigman left the game
+[01:36:06] [User Authenticator #3/INFO]: UUID of player Atan is 9992d014-0c3a-34c0-b20e-967da7f3e4dc
+[01:36:06] [Server thread/INFO]: Atan joined the game
+[01:36:06] [Server thread/INFO]: Atan[/121.123.49.133:55002] logged in with entity id 44951 at ([world]-11.840312064399944, 64.0, 53.875216964489276)
+[01:48:19] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:jungle_fence 128
+[01:48:19] [Server thread/INFO]: [Atan: Gave 128 [Jungle Fence] to Atan]
+[01:50:50] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:lead 10
+[01:50:50] [Server thread/INFO]: [Atan: Gave 10 [Lead] to Atan]
+[02:08:14] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:dri
+[02:08:20] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:dripstone_block
+[02:08:20] [Server thread/INFO]: [Atan: Gave 1 [Dripstone Block] to Atan]
+[02:09:08] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:dr
+[02:09:13] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:dropper
+[02:09:13] [Server thread/INFO]: [Atan: Gave 1 [Dropper] to Atan]
+[02:10:34] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:glass
+[02:10:34] [Server thread/INFO]: [Atan: Gave 1 [Glass] to Atan]
+[02:11:03] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:glass 20
+[02:11:03] [Server thread/INFO]: [Atan: Gave 20 [Glass] to Atan]
+[02:12:33] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:lava_bucket
+[02:12:33] [Server thread/INFO]: Atan has made the advancement [Hot Stuff]
+[02:12:33] [Server thread/INFO]: [Atan: Gave 1 [Lava Bucket] to Atan]
+[02:13:10] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:pointed_dripstone
+[02:13:10] [Server thread/INFO]: [Atan: Gave 1 [Pointed Dripstone] to Atan]
+[02:32:08] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:cooked_beef 10
+[02:32:08] [Server thread/INFO]: [Atan: Gave 10 [Steak] to Atan]
+[02:33:01] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:torch 128
+[02:33:01] [Server thread/INFO]: [Atan: Gave 128 [Torch] to Atan]
+[02:46:02] [Server thread/INFO]: Atan issued server command: /give Atan minecraft:dirt 300
+[02:46:02] [Server thread/INFO]: [Atan: Gave 300 [Dirt] to Atan]
+[02:51:43] [Server thread/INFO]: Atan lost connection: Disconnected
+[02:51:43] [Server thread/INFO]: Atan left the game
+[03:16:16] [User Authenticator #4/INFO]: UUID of player sigman is 5039abf4-8cf4-366b-86e7-3ae9e0f8e90a
+[03:16:17] [Server thread/INFO]: sigman joined the game
+[03:16:17] [Server thread/INFO]: sigman[/121.123.49.133:63365] logged in with entity id 57106 at ([world]-394.6954783333894, 66.0, -2.8204458119451568)
+[03:16:51] [Server thread/INFO]: sigman has made the advancement [Sweet Dreams]
+[03:29:53] [Server thread/INFO]: sigman was slain by Drowned
+[03:34:14] [Server thread/INFO]: sigman lost connection: Disconnected
+[03:34:14] [Server thread/INFO]: sigman left the game
+[03:38:48] [Server thread/INFO]: Stopping server
+[03:38:48] [Server thread/INFO]: Saving players
+[03:38:48] [Server thread/INFO]: Saving worlds
+[03:38:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 122 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:38:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Saved 793 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.12s
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:38:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.13s
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:38:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:38:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:38:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:38:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:38:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:38:48] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[03:38:48] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[03:38:48] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:38:48] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
